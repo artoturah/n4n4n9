@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "REAL":true,
+      "REAL":false,
       "ADMOB_BANNER":"ca-app-pub-3940256099942544/6300978111xxx",
       "ADMOB_INTERS":"ca-app-pub-3940256099942544/1033173712xxx", 
       "MAX_BANNER":"9e106ff70404d381xxx",
