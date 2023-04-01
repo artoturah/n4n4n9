@@ -10,7 +10,14 @@
       "MAX_INTERS":"1995d7ef3e0f8e99",
       "MAX_NATIVE":"e91676fa550e69fa",
  
-      "INTERVAL": 2
+      "INTERVAL": 2,
+      
+      "BANNER_URL":"https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif",
+      "BANNER_PACKAGE_NAME":"com.justwatch.justwatch",
+      
+      "REDIRECT_STATUS":false,
+      "REDIRECT_BANNER_URL":"https://play-lh.googleusercontent.com/c3OB0wzKaK0zFa_mKlZWQaiNArc3Va_R_mKWlLpQT7EyYRqRHPXJvRh2en5tSrKGOxr6=w2560-h1440-rw",
+      "REDIRECT_PACKAGE_NAME":"com.nonton.drakor.indo.asia.dramaqu"
     }
   ]
 }
